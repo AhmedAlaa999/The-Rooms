@@ -1,4 +1,4 @@
-#The Rooms
+## The Rooms
 ## About The Game
 
 The Roooms is a 2D platformer parkour game made using Godot.  
